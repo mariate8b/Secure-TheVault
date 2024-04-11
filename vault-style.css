@@ -1,0 +1,23 @@
+h1{
+    color: rgb(41, 41, 41);
+}
+h2{color: rgb(255, 0, 0);
+
+    width: 300px;
+    height: 100px;
+    border: 20px;
+    padding: 30px;
+    
+}
+
+
+table{
+    color: rgb(25, 24, 24);
+    width: 540px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);}
+
+td{color: rgb(239, 27, 27);
+  background-color: rgb(0, 0, 0);
+
+    }
